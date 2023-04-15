@@ -8,7 +8,7 @@ const SearchBar = () => {
   const navigate = useNavigate();
 
   const onhandleSubmit = (e) => {
-    e.preventDefault();
+    e.preventDefault(); //avoid refresh
 
     if (searchTerm) {
       navigate(`/search/${searchTerm}`);
