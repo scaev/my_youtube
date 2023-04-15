@@ -4,6 +4,7 @@ import { Box, Stack, Typography } from "@mui/material";
 import { Videos, Sidebar } from "./";
 
 const Feed = () => {
+  const [selectedCategory, setSelectedCategory] = useState("New");
 
 
   return (
