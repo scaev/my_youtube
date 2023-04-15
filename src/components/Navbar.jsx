@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { logo } from "../utils/constants";
 
 import React from "react";
-import { SearchBar } from "./SearchBar";
+import { SearchBar } from "./";
 
 const Navbar = () => (
   <Stack
