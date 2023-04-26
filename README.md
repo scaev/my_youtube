@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+<div align = "center">
+</br>
+</br>
+      
+ <a>[<img src="https://i.imgur.com/GxMeTii.png" alt="Logo" width="100" height="100">](https://scaev.github.io/my_youtube/)
+ </a>
+ 
+</br>
+</br>
+  
+<div id="description" align="center">
+ Created and designed by Kaan Karadag
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![LinkedIn Badge](https://img.shields.io/badge/-KaanKaradag-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/m-kaan-karadag/)
+[![Instagram Badge](https://img.shields.io/badge/-scaevolas-skyblue?style=flat&logo=Instagram&logoColor=black)](https://www.instagram.com/scaevolas/)
+[![GitHub Badge](https://img.shields.io/badge/-scaev-junglegreen?style=flat&logo=GitHub&logoColor=black)](https://github.com/scaev)
 
-## Available Scripts
+<p align="center">
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#upcoming-features">Upcoming Features</a> •
+  <a href="#technologies">Technologies</a> 
+</p>
 
-In the project directory, you can run:
+## About
 
-### `npm start`
+#### my_youtube is an online application that allows users to watch and search videos. This simple web application was created in order to gain more experience with front end app development and using third party APIs.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### my_youtube is essentially a scaled-down version of the YouTube, but much better. I'm using Material UI as a main UI library, RapidAPI as a third-party API, and React as my front-end framework.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+Join my-YouTube today via [link 👈](https://scaev.github.io/my_youtube/)
+and enjoy watching videos.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="https://i.imgur.com/OJWZuIi.png" alt="Logo" width="700" height="500">
 
-### `npm run build`
+## Upcoming Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [x] Created and configured project, installed all necessary packages and libraries.
+- [x] Fetched videos consumed YouTube API through RapidAPI and axios.
+- [x] Added components, pages, search bar, routes, categories and feed.
+- [x] Implemented channel details page and random video search functionality.
+- [x] Connected Material_UI, added css styles, spinner, react-player.
+- [ ] Implement the "Add video to favorites" and "My account" features.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Technologies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+![Github](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visualstudio)
+![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=MUI)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![RapidAPI](https://img.shields.io/badge/-RapidAPI-05122A?style=flat&logo=RapidAPI)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)
+![Google](https://img.shields.io/badge/-Google-05122A?style=flat&logo=Google)
+![StackOverflow](https://img.shields.io/badge/-StackOverflow-05122A?style=flat&logo=StackOverflow)
+![CrossedFingers](https://img.shields.io/badge/-CrossedFingers-05122A?style=flat&logo=CrossedFingers)
